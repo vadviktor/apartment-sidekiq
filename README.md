@@ -11,7 +11,7 @@ It will then switch to that tenant for the duration of the job processing.
 
 Add this line to your application's Gemfile:
 
-    gem 'apartment-sidekiq'
+    gem 'ros-apartment-sidekiq'
 
 And then execute:
 
@@ -19,7 +19,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install apartment-sidekiq
+    $ gem install ros-apartment-sidekiq
 
 ## Usage
 
